@@ -32,7 +32,6 @@ DerivedData/
 
 ## Playgrounds
 timeline.xctimeline
-playground.xcworkspace
 
 # Swift Package Manager
 #
@@ -88,3 +87,7 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+
+# MacOS
+#
+.DS_Store
